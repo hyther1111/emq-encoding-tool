@@ -1,4 +1,4 @@
-# EMQ Upload Encoding Tool
+# EMQ upload encoding tool
 
 A tool that is designed specifically for EMQ uploading standard.
 
