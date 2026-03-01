@@ -1,6 +1,6 @@
 # EMQ upload encoding tool
 
-A tool that is designed specifically for EMQ uploading standard.
+A tool that is designed specifically for EMQ uploadings.
 
 ## Features
 - Volume check (mean and max dB)
